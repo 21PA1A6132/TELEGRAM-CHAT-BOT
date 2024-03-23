@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@stdlib/math-base-special-cos": "^0.1.0",
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "firebase-admin": "^12.0.0",
+    "mongodb": "^6.3.0",
+    "mongojs": "^3.1.0",
+    "mongoose": "^8.1.0",
+    "password-hash": "^1.2.2",
+    "request": "^2.88.2"
+  }
+}
